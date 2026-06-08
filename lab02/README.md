@@ -35,6 +35,10 @@ Les 20 cas de test sont définis dans le fichier de l'énoncé. Chaque cas est e
 
 **Résultat : 20/20 Succès**
 
+Screenshot de l'application web (`http://localhost:8080`) :
+
+![Application User Registration](assets/registration_app.png)
+
 Screenshot de l'exécution des tests :
 
 ![Résultats des tests JUnit](assets/junit_tests.png)
